@@ -34,7 +34,7 @@ First! Config Klicky setting...
 
 servosetting is
 
-Printer.CFG file
+----Printer.CFG file----
 
 [servo klicky_servo]
 
@@ -46,6 +46,7 @@ minimum_pulse_width: 0.00025
 
 maximum_pulse_width: 0.0024
 
+------------------
 
 before assembly
 
