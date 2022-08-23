@@ -30,7 +30,9 @@ M3 Hex Nuts * 2ea
 https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros
 This is Klicky Menual.
 
-First! Config add~
+First! Config Klicky setting... 
+
+servosetting is
 
 Printer.CFG file
 
