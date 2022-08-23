@@ -13,7 +13,7 @@ You must use ServoKlicky to use all Printing Range.
 NEED PARTS 
 
 MG90S servo motor 
-M3-8 Bolt * 2ea
+M3-12 Bolt * 2ea
 M3 Hex Nuts * 2ea
 
 + KlickyProbe Magnetic 6*3 9ea
