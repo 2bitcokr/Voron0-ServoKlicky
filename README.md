@@ -13,10 +13,14 @@ You must use ServoKlicky to use all Printing Range.
 NEED PARTS 
 
 MG90S servo motor 
+
 M3-12 Bolt * 2ea
+
 M3 Hex Nuts * 2ea
 
+
 + KlickyProbe Magnetic 6*3 9ea
++ 
 + Micro Switch ( D2f or KW10 )
 
 
@@ -31,9 +35,13 @@ First! Config add~
 Printer.CFG file
 
 [servo klicky_servo]
+
 pin: PA1
+
 maximum_servo_angle: 180 
+
 minimum_pulse_width: 0.00025
+
 maximum_pulse_width: 0.0024
 
 
