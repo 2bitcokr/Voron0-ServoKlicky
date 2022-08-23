@@ -2,7 +2,10 @@
 Voron0-ServoKlicky
 
 
-https://user-images.githubusercontent.com/110684743/186092694-69971830-356e-452b-9cc5-ffa57690e5ff.mp4
+
+https://user-images.githubusercontent.com/110684743/186170272-601ec7d4-88fa-4be3-82ba-44e14ac5b167.mp4
+
+
 
 Vzero Servo Klicky
 
@@ -29,9 +32,6 @@ M3 Hex Nuts * 2ea
 # Menual
 https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros
 This is Klicky Menual.
-(Klicky-variables.cfg. you have to make some modifications. docking locaction,, speed,, ~~~)
-
-(Position and angle correction should be done after installation is complete.)
 
 First! Config Klicky setting... 
 
