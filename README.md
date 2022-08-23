@@ -38,9 +38,9 @@ Printer.CFG file
 
 [servo klicky_servo]
 
-pin: PA1
+pin: PA1 #Servo PIN!
 
-maximum_servo_angle: 180 
+maximum_servo_angle: 180 #dont change
 
 minimum_pulse_width: 0.00025
 
