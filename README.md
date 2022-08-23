@@ -50,13 +50,13 @@ maximum_pulse_width: 0.0024
 
 before assembly
 
-insert a magnet in probe,dock.
+1. insert a magnet in probe,dock.
 
-connect the servo Cable (real)
+2. connect the servo Cable (real)
 
-SET_SERVO SERVO=klicky_servo ANGLE=160
+3. SET_SERVO SERVO=klicky_servo ANGLE=160
 
-disconnect the servo Cable
+4. disconnect the servo Cable
 
 Do not touch the servo gear!!
 
