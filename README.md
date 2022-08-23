@@ -29,6 +29,9 @@ M3 Hex Nuts * 2ea
 # Menual
 https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros
 This is Klicky Menual.
+(Klicky-variables.cfg. you have to make some modifications. docking locaction,, speed,, ~~~)
+
+(Position and angle correction should be done after installation is complete.)
 
 First! Config Klicky setting... 
 
